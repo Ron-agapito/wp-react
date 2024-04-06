@@ -1,0 +1,17 @@
+#react-chart {
+    padding-top: 15px;
+
+    .flex {
+        display: flex;
+        width: 100%;
+        padding-bottom: 15px;
+    }
+
+    .col {
+        flex: 50%;
+    }
+
+    .end {
+        text-align: right;
+    }
+}
